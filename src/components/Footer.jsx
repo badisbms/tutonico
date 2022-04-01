@@ -1,15 +1,14 @@
 import { Component } from "react";
+import "../styles/Footer.css";
 
 class Footer extends Component {
-   
-    
-    render() { 
-        return ( 
-            <div>
-                <p>Footer</p>
-            </div>
-         );
-    }
+  render() {
+    return (
+      <footer className="footer">
+        <p>Copyright © 2022 Agysoft</p>
+      </footer>
+    );
+  }
 }
- 
+
 export default Footer;

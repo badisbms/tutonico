@@ -1,0 +1,9 @@
+.about {
+    margin: 30px;
+}
+
+
+.about > p{
+    color: black;
+}
+

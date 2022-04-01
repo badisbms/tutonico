@@ -1,0 +1,14 @@
+footer {
+  background-color: var( --color-blue);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding-top: 50px;
+  height: 5vh;
+}
+
+
+p {
+    font-family: var(--font-family);
+    color: white;
+}
