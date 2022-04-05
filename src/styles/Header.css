@@ -5,15 +5,14 @@
   flex-direction: row;
   justify-content: center;
   background-color: var(--color-blue);
-   
 }
 
 .header-nav > a {
-    padding: 1em ;
-    text-decoration: none;
-    font-family: var(--font-family);
-    font-size: 17px;
-    color: white;
+  padding: 1em;
+  text-decoration: none;
+  font-family: var(--font-family);
+  font-size: 17px;
+  color: white;
 }
 
 .header-logo {
@@ -22,6 +21,6 @@
 }
 
 img {
-  width: 15vw;
-  height: auto;
+  width: 14%;
+  min-width: 345px;
 }

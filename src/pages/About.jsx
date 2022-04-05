@@ -5,7 +5,7 @@ class About extends Component {
   render() {
     return (
       <section className="about">
-        <p className="test">
+        <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore,
           unde? Assumenda accusamus, praesentium nisi repudiandae consectetur
           porro eos itaque dolore non quis architecto facere quam dolorum.

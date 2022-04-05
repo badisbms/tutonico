@@ -1,0 +1,15 @@
+.home_form {
+   
+    margin-top: 10vh;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+    border-radius: 20px;
+ 
+    margin-left: 20vw;
+    margin-right: 20vw;
+   
+}
+
+.title > h1 {
+    font-family: var(--font-family);
+    margin-bottom: 30px;
+}

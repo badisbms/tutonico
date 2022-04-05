@@ -1,14 +1,15 @@
 import { Component } from "react";
-import Content from "../components/Content";
-
-
-
+import Form from "../components/Form";
 
 class Home extends Component {
+  constructor(props) {
+    super(props);
+  }
+
   render() {
     return (
-      <div className="home">
-        <Content />
+      <div className="l-page">
+        <Form />
       </div>
     );
   }
