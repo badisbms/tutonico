@@ -9,7 +9,7 @@
    
 }
 
-.title > h2 {
+.title {
     font-family: var(--font-family);
-    margin-bottom: 30px;
+    margin: 30px;
 }
