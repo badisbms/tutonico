@@ -1,4 +1,4 @@
-import { Table } from "@material-ui/core";
+import Table from "../components/Table";
 import { Component } from "react";
 
 class ComposantA extends Component {

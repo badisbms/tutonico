@@ -1,5 +1,5 @@
 footer {
-  background-color: var( --color-blue);
+  background-color: var(--color-blue);
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -7,8 +7,7 @@ footer {
   height: 5vh;
 }
 
-
 footer > p {
-    font-family: var(--font-family);
-    color: white;
+  font-family: var(--font-family);
+  color: white;
 }
