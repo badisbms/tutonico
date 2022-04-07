@@ -1,7 +1,7 @@
 export class userService {
   getUsers() {
     return (
-      fetch("defaultValues.json", {
+      fetch("assets/data/defaultValues.json", {
         headers: {
           "Content-Type": "application/json",
           Accept: "application/json",
